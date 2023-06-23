@@ -42,3 +42,7 @@ gradle-app.setting
 # Visual Studio Code
 .vscode/
 .code-workspace
+
+# Other
+*.txt
+*.gitignore
