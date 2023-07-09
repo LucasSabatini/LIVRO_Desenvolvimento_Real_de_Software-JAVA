@@ -9,7 +9,7 @@ import java.util.List;
 
 public class BankStatementAnalyzer {
 
-    private static final String RESOURCES = "C:/Users/lucas/OneDrive/Área de Trabalho/Programação/Livros/Desenvolvimento Real de Software - Java/Cap02_Analista_de_Extratos_Bancarios_v2.12/src/main/resources/";
+    private static final String RESOURCES = "/src/main/resources/";
 
     public void analyze(final String fileName, final BankStatementParser bankStatementParser)
             throws IOException {
